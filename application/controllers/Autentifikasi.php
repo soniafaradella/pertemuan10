@@ -3,6 +3,7 @@
 class Autentifikasi extends CI_Controller
 {
 
+	
     public function index()
     {
         //jika statusnya sudah login, maka tidak bisa mengakses halaman login alias dikembalikan ke tampilan user
