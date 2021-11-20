@@ -33,6 +33,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | would be loaded.
 |
 |	$route['404_override'] = 'errors/page_missing';
+
 |
 | This route will tell the Router which controller/method to use if those
 | provided in the URL cannot be matched to a valid route.
